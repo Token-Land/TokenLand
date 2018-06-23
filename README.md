@@ -1,8 +1,6 @@
-Byteball is a wallet for storage and transfer of decentralized value.  See [byteball.org](https://byteball.org/).
 
-## Binary Downloads
 
-[Byteball.org](https://byteball.org/)
+
 
 ## Main Features
 
